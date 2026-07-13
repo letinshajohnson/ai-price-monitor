@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+openai==1.30.0
+sqlalchemy==2.0.30
+psycopg2-binary==2.9.9
+python-dotenv==1.0.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+scrapy==2.11.1
+spacy==3.7.4
+pydantic-settings==2.2.1
+schedule==1.2.1
